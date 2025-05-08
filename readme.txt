@@ -1,0 +1,3 @@
+- Learned Git basics
+- Understood version control
+- Practiced creating commits
