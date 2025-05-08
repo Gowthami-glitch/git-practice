@@ -1,3 +1,5 @@
 - Learned Git basics
 - Understood version control
 - Practiced creating commits
+- Learned how to create branches
+- Learned how to make a pull request
