@@ -6,3 +6,5 @@
 - Git helps track changes
 - You can create branches for updates
 - GitHub is used to store and share code
+- Learned how to use pull requests
+- Practiced pushing code to GitHub
