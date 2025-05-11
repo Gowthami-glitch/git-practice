@@ -3,3 +3,6 @@
 - Practiced creating commits
 - Learned how to create branches
 - Learned how to make a pull request
+- Git helps track changes
+- You can create branches for updates
+- GitHub is used to store and share code
