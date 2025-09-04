@@ -1,3 +1,10 @@
 - Learned Git basics
 - Understood version control
 - Practiced creating commits
+- Learned how to create branches
+- Learned how to make a pull request
+- Git helps track changes
+- You can create branches for updates
+- GitHub is used to store and share code
+- Learned how to use pull requests
+- Practiced pushing code to GitHub
